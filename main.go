@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"bitbucket.org/f1hackday/f1lib"
+	"github.org/f1hackday/f1lib"
 )
 
 func main() {
